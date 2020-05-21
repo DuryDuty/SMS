@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{71345506-FD9D-480E-8AC1-777C1A72A65A}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="43972.0688078704" objectName="Aliases.browser.pageOraclePeoplesoftSignIn.textboxUserId" objectLeft="784" objectTop="281" objectRight="1137" objectBottom="325" clickPointX="-1" clickPointY="-1081" imageFileName="tcvi886023418641.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43972.0688773148" objectName="Aliases.browser.pageOraclePeoplesoftSignIn.passwordboxPassword" objectLeft="784" objectTop="374" objectRight="1137" objectBottom="418" clickPointX="-1" clickPointY="-1081" imageFileName="tcvi886637518645.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="43972.0690393519" objectName="Aliases.browser.pageOraclePeoplesoftSignIn.submitbuttonSignIn" objectLeft="911" objectTop="532" objectRight="1009" objectBottom="567" clickPointX="948" clickPointY="555" imageFileName="tcvi888078118647.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

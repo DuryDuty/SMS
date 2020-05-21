@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{3FE8B885-830D-4EEA-B6C9-05CDBE844120}">
+	<children>
+		<child name="SMS-Phase1" key="{AC5C45C7-BCC4-4730-AF75-C0EC0281A71F}" path="SMS-Phase1\SMS-Phase1.mds" />
+	</children>
+	<testItems key="{E4E3B6B4-2AFD-49A6-95D1-AD9446CE0812}">
+		<children>
+			<testItem key="{AC5C45C7-BCC4-4730-AF75-C0EC0281A71F}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{C10DCEBD-C10E-4733-8F2B-0E1E01E5CC71}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{225723BD-84C2-4854-B67F-D04E9F07E77E}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>

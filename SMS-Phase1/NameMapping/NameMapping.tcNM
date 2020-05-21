@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="6" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
+		<Children>
+			<Child Name="Sys" Key="{D37DD2E5-733D-4C84-980A-E902DDBA6D7D}" ParallelWalk="True">
+				<Properties>
+					<Property Name="Name">
+						<Value PropertyType="0" Value="Sys" Type="5" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{DEC2635B-79AC-469C-B198-73CB164D1938}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value PropertyType="0" Value="Browser" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageOraclePeoplesoftSignIn" Key="{AD5E5847-C781-443B-83F0-00BE9571EF26}" ParallelWalk="True">
+								<Image FileName="-979823840" Left="0" Top="74" Right="1920" Bottom="1040" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://tst2alt-sms-campus-tafensw.redmgmt.net/*" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelPsSigninentry" Key="{3F070F55-2907-4492-B774-94554C29ED95}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-979823840" Left="8" Top="256" Right="1912" Bottom="622" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="0" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textboxUserId" Key="{CEB6CE5F-A01E-4185-A0E5-4C55D7E2DFE9}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-979823840" Left="784" Top="281" Right="1137" Bottom="325" />
+												<TypeInfo Item0="{8367BE6A-0834-4689-B2EF-2AC593B72E82}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Textbox" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="userid" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="passwordboxPassword" Key="{4FD51392-C8E6-4E74-9E3B-AF741F9F2E73}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="418173199" Left="784" Top="374" Right="1137" Bottom="418" />
+												<TypeInfo Item0="{8ED69575-E4AE-4196-830D-5C97A0651EFE}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="PasswordBox" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="pwd" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="submitbuttonSignIn" Key="{3BE81F03-7578-4B24-B732-38BEDEAE2BD2}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-2041104260" Left="911" Top="532" Right="1009" Bottom="567" />
+												<TypeInfo Item0="{35189393-BF0F-4C43-BAE5-2A6517022F46}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="SubmitButton" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="Submit" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="panelPtnbPtnuiNbMenu" Key="{2E5E02AB-671A-4D44-9C9A-85D5F88C7677}" ParallelWalk="True">
+												<Image FileName="976067057" Left="1506" Top="395" Right="1608" Bottom="497" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="PTNB$PTNUI_NB_MENU" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelGroupletPtnbPtnuiNbMenu" Key="{79695E9B-3B28-4CCD-BBB7-ABAD4BDB07E7}" ParallelWalk="True">
+														<Image FileName="976067057" Left="1506" Top="396" Right="1608" Bottom="496" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="grouplet_PTNB$PTNUI_NB_MENU" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="imagePtnuiMenuIcn2" Key="{E830FF55-673B-430A-8D2F-EAAE7051F13F}" ParallelWalk="True">
+																<Image FileName="976067057" Left="1533" Top="420" Right="1581" Bottom="468" />
+																<TypeInfo Item0="{034EB845-C819-4784-846E-77CEF01FE051}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Image" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="PTNUI_MENU_ICN$2" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="lblNavbarNavigator" Key="{4710DA47-8034-4C23-8590-EE2584016F67}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1378633808" Left="1829" Top="481" Right="1926" Bottom="493" />
+														<TypeInfo Item0="{0F29AE3B-6703-4AAE-804F-8279504AFA07}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="TextNode" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="PTNUI_DOCK_REC_GROUPLET_LBL*" Type="5" />
+															</Property>
+															<Property Name="contentText">
+																<Value PropertyType="0" Value="Navigator" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="headerPtbrHeaderContainer" Key="{6200A303-8F6A-481C-8659-4B88A977BFC3}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="1712614676" Left="8" Top="111" Right="1928" Bottom="153" />
+												<TypeInfo Item0="{CC88FDC6-E7BA-4086-8E35-20C15EC5E7D7}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Header" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="ptbr_header_container" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="linkPthdr2navbar" Key="{CC314A78-AC3A-414F-A8B7-CC2C19443A8D}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1712614676" Left="1885" Top="113" Right="1928" Bottom="152" />
+														<TypeInfo Item0="{B81E51EE-AF05-4A47-989C-8300BCE44DFB}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Link" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="pthdr2navbar" Type="5" />
+															</Property>
+															<Property Name="target">
+																<Value PropertyType="0" Value="NavBar" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="panelPtnuiNbCntrec0Row0" Key="{484977CA-2F0E-448E-B5E2-83626D75E746}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-502620661" Left="1618" Top="201" Right="1926" Bottom="259" />
+												<TypeInfo Item0="{CC88FDC6-E7BA-4086-8E35-20C15EC5E7D7}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="PTNUI_NB_CNTREC*" Type="5" />
+													</Property>
+													<Property Name="contentText">
+														<Value PropertyType="1" LocalVariable="NavString" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelPtifrmcontent" Key="{DDB706C8-9160-4DDB-9E91-5FEC8FFBC959}" ParallelWalk="True">
+										<Image FileName="1867879636" Left="0" Top="169" Right="1920" Bottom="169" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="ptifrmcontent" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelPtifrmtarget" Key="{EA35DFF1-2C43-4364-9AA1-4813317DFEE7}" ParallelWalk="True">
+												<Image FileName="1867879636" Left="190" Top="169" Right="1920" Bottom="1040" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="ptifrmtarget" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="framePtifrmtgtframe" Key="{095EA843-F293-4E5F-968D-A08679B0122B}" ParallelWalk="True">
+														<Image FileName="1867879636" Left="190" Top="169" Right="1920" Bottom="1036" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Frame" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="ptifrmtgtframe" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="formAcademicProgTbl" Key="{0A568485-C926-4F24-A7CE-A4E0CE7FB4FE}" ParallelWalk="True">
+																<Image FileName="1867879636" Left="196" Top="170" Right="1912" Bottom="684" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Form" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="ACADEMIC_PROG_TBL" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelWin0divpagecontainer" Key="{08A9A736-57EB-4489-9695-C6591192C3E9}" ParallelWalk="True">
+																		<Image FileName="1867879636" Left="196" Top="316" Right="1912" Bottom="630" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="idStr">
+																				<Value PropertyType="0" Value="win0divPAGECONTAINER" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelWin0divsearchadv" Key="{123EEA31-0356-426B-84C2-AE6D6ECA6B2A}" ParallelWalk="True">
+																				<Image FileName="1867879636" Left="196" Top="334" Right="1912" Bottom="529" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="idStr">
+																						<Value PropertyType="0" Value="win0divSEARCHADV" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="tableWin0tblsrchflds" Key="{61E3A446-3BAD-40AE-8EE6-06B7A00C6DE4}" ParallelWalk="True">
+																						<Image FileName="1867879636" Left="196" Top="334" Right="611" Bottom="529" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Table" Type="5" />
+																							</Property>
+																							<Property Name="idStr">
+																								<Value PropertyType="0" Value="win0tblSrchFlds" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="cell" Key="{FC4BF353-CA5E-420F-B6B6-75EBED04A652}" ParallelWalk="True">
+																								<Image FileName="1867879636" Left="198" Top="336" Right="609" Bottom="527" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Cell" Type="5" />
+																									</Property>
+																									<Property Name="RowIndex">
+																										<Value PropertyType="0" Value="0" Type="0" />
+																									</Property>
+																									<Property Name="ColumnIndex">
+																										<Value PropertyType="0" Value="0" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="table" Key="{138F57B3-E9F6-4C28-8339-7D66826670D8}" ParallelWalk="True">
+																										<Image FileName="1867879636" Left="198" Top="336" Right="609" Bottom="527" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="Table" Type="5" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="cell" Key="{2AE6F113-9A3E-477B-A9C4-BF6AF39EC9A2}" ParallelWalk="True">
+																												<Image FileName="1867879636" Left="400" Top="338" Right="607" Bottom="357" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Cell" Type="5" />
+																													</Property>
+																													<Property Name="RowIndex">
+																														<Value PropertyType="0" Value="0" Type="0" />
+																													</Property>
+																													<Property Name="ColumnIndex">
+																														<Value PropertyType="0" Value="2" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="panelWin0divrxAcadProgSrInstitut" Key="{BB0C6946-9F28-4054-8C43-CA917E00288E}" ParallelWalk="True">
+																														<Image FileName="1867879636" Left="400" Top="338" Right="607" Bottom="357" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value PropertyType="0" Value="Panel" Type="5" />
+																															</Property>
+																															<Property Name="idStr">
+																																<Value PropertyType="0" Value="win0divRX_ACAD_PROG_SR_INSTITUTION" Type="5" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="textboxAcademicInstitution" Key="{1D0C627F-D5C8-42A7-8E51-DDF888CE9AC8}" ParallelWalk="True">
+																																<Image FileName="1867879636" Left="400" Top="339" Right="542" Bottom="357" />
+																																<TypeInfo Item0="{FEA0434D-B1D0-4D6B-9A78-1BBBCC5B38CD}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																																	</Property>
+																																	<Property Name="idStr">
+																																		<Value PropertyType="0" Value="RX_ACAD_PROG_SR_INSTITUTION" Type="5" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="textboxAcademicProgram" Key="{4EC555EE-1FD7-49C8-81F3-8A0D00E85CA1}" ExtendedFind="True" ParallelWalk="True">
+																												<Image FileName="1867879636" Left="400" Top="360" Right="542" Bottom="378" />
+																												<TypeInfo Item0="{FEA0434D-B1D0-4D6B-9A78-1BBBCC5B38CD}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Textbox" Type="5" />
+																													</Property>
+																													<Property Name="idStr">
+																														<Value PropertyType="0" Value="RX_ACAD_PROG_SR_ACAD_PROG" Type="5" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="cell2" Key="{C12993E0-EF3B-40E9-A755-1F6888CD909B}" ParallelWalk="True">
+																												<Image FileName="1867879636" Left="400" Top="380" Right="607" Bottom="399" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Cell" Type="5" />
+																													</Property>
+																													<Property Name="RowIndex">
+																														<Value PropertyType="0" Value="2" Type="0" />
+																													</Property>
+																													<Property Name="ColumnIndex">
+																														<Value PropertyType="0" Value="2" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="panelWin0divrxAcadProgSrDescr" Key="{BF232513-341F-47BB-A987-06F7EC1DF013}" ParallelWalk="True">
+																														<Image FileName="1867879636" Left="400" Top="380" Right="607" Bottom="399" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value PropertyType="0" Value="Panel" Type="5" />
+																															</Property>
+																															<Property Name="idStr">
+																																<Value PropertyType="0" Value="win0divRX_ACAD_PROG_SR_DESCR" Type="5" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="textboxDescription" Key="{A4BBDED4-715B-4045-A177-D10AA24578A3}" ParallelWalk="True">
+																																<Image FileName="1867879636" Left="400" Top="381" Right="542" Bottom="399" />
+																																<TypeInfo Item0="{FEA0434D-B1D0-4D6B-9A78-1BBBCC5B38CD}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																																	</Property>
+																																	<Property Name="idStr">
+																																		<Value PropertyType="0" Value="RX_ACAD_PROG_SR_DESCR" Type="5" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="cell3" Key="{52B0F332-4D23-4FCA-9BE5-5AB0D126BE22}" ParallelWalk="True">
+																												<Image FileName="432268521" Left="400" Top="401" Right="607" Bottom="420" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Cell" Type="5" />
+																													</Property>
+																													<Property Name="RowIndex">
+																														<Value PropertyType="0" Value="3" Type="0" />
+																													</Property>
+																													<Property Name="ColumnIndex">
+																														<Value PropertyType="0" Value="2" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="panelWin0divrxAcadProgSrDescrsho" Key="{58F3F58A-24B4-485F-BB0C-A4908484E5A1}" ParallelWalk="True">
+																														<Image FileName="432268521" Left="400" Top="401" Right="607" Bottom="420" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value PropertyType="0" Value="Panel" Type="5" />
+																															</Property>
+																															<Property Name="idStr">
+																																<Value PropertyType="0" Value="win0divRX_ACAD_PROG_SR_DESCRSHORT" Type="5" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="textboxShortDescription" Key="{C8198E6E-73F9-45DF-BA04-E5D0E4F0A437}" ParallelWalk="True">
+																																<Image FileName="432268521" Left="400" Top="402" Right="542" Bottom="420" />
+																																<TypeInfo Item0="{FEA0434D-B1D0-4D6B-9A78-1BBBCC5B38CD}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																																	</Property>
+																																	<Property Name="idStr">
+																																		<Value PropertyType="0" Value="RX_ACAD_PROG_SR_DESCRSHORT" Type="5" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="cell4" Key="{16A22037-81FA-4C51-A87F-DD2F30448804}" ParallelWalk="True">
+																												<Image FileName="432268521" Left="400" Top="422" Right="607" Bottom="441" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Cell" Type="5" />
+																													</Property>
+																													<Property Name="RowIndex">
+																														<Value PropertyType="0" Value="4" Type="0" />
+																													</Property>
+																													<Property Name="ColumnIndex">
+																														<Value PropertyType="0" Value="2" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="panelWin0divrxAcadProgSrAcadGrou" Key="{AE818B91-0A36-4FA5-AB4E-39A206DE52DA}" ParallelWalk="True">
+																														<Image FileName="432268521" Left="400" Top="422" Right="607" Bottom="441" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value PropertyType="0" Value="Panel" Type="5" />
+																															</Property>
+																															<Property Name="idStr">
+																																<Value PropertyType="0" Value="win0divRX_ACAD_PROG_SR_ACAD_GROUP" Type="5" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="textboxAcademicGroup" Key="{3A9E817D-636F-4C26-B496-BD329B3EDA90}" ParallelWalk="True">
+																																<Image FileName="432268521" Left="400" Top="423" Right="542" Bottom="441" />
+																																<TypeInfo Item0="{FEA0434D-B1D0-4D6B-9A78-1BBBCC5B38CD}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																																	</Property>
+																																	<Property Name="idStr">
+																																		<Value PropertyType="0" Value="RX_ACAD_PROG_SR_ACAD_GROUP" Type="5" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="textboxProgramName" Key="{D12918EB-6A6E-44D7-B57C-E37FFD70C8C3}" ExtendedFind="True" ParallelWalk="True">
+																												<Image FileName="1133807299" Left="400" Top="465" Right="542" Bottom="483" />
+																												<TypeInfo Item0="{FEA0434D-B1D0-4D6B-9A78-1BBBCC5B38CD}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Textbox" Type="5" />
+																													</Property>
+																													<Property Name="idStr">
+																														<Value PropertyType="0" Value="RX_ACAD_PROG_SR_RX_PROG_NAME" Type="5" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="textboxNationalCode" Key="{403B7F1D-7DAB-421A-9A96-B3FA03E95D9A}" ExtendedFind="True" ParallelWalk="True">
+																												<Image FileName="432268521" Left="400" Top="486" Right="542" Bottom="504" />
+																												<TypeInfo Item0="{FEA0434D-B1D0-4D6B-9A78-1BBBCC5B38CD}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Textbox" Type="5" />
+																													</Property>
+																													<Property Name="idStr">
+																														<Value PropertyType="0" Value="RX_ACAD_PROG_SR_RX_NATIONAL_CODE" Type="5" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="textboxAlternateCode" Key="{83B893E1-F203-4281-98C1-2ABC36399783}" ExtendedFind="True" ParallelWalk="True">
+																												<Image FileName="432268521" Left="400" Top="507" Right="542" Bottom="525" />
+																												<TypeInfo Item0="{FEA0434D-B1D0-4D6B-9A78-1BBBCC5B38CD}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Textbox" Type="5" />
+																													</Property>
+																													<Property Name="idStr">
+																														<Value PropertyType="0" Value="RX_ACAD_PROG_SR_RX_ALTERNATE_CODE" Type="5" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="navItemGeneric" Key="{796B6299-1861-401B-8B06-141FA1B99AD0}" ParallelWalk="True">
+										<Image FileName="-257539238" Left="1618" Top="611" Right="1925" Bottom="665" />
+										<TypeInfo Item0="{B81E51EE-AF05-4A47-989C-8300BCE44DFB}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="1" LocalVariable="NavString" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="PTNUI_NB_CNTREC_PTNUI_LINK*" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="formPtLandingpage" Key="{C6B28001-2247-4476-992A-1B2F33A0FDEA}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1129407153" Left="8" Top="111" Right="1928" Bottom="1048" />
+										<TypeInfo Item0="{CC88FDC6-E7BA-4086-8E35-20C15EC5E7D7}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Form" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="PT_LANDINGPAGE" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="linkPtNavbar" Key="{CE8AF80A-5A07-4052-BE7D-1E70737DD562}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="1129407153" Left="1884" Top="111" Right="1928" Bottom="151" />
+												<TypeInfo Item0="{B81E51EE-AF05-4A47-989C-8300BCE44DFB}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Link" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="PT_NAVBAR" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="imagePtNavbarImg" Key="{467DC737-8041-43C3-BA6D-46A23DE3C10A}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1129407153" Left="1889" Top="113" Right="1924" Bottom="148" />
+														<TypeInfo Item0="{CC88FDC6-E7BA-4086-8E35-20C15EC5E7D7}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Image" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="PT_NAVBAR_IMG" Type="5" />
+															</Property>
+															<Property Name="namePropStr">
+																<Value PropertyType="0" Value="PT_HEADER_NAVBAR_1.svg" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{DEC2635B-79AC-469C-B198-73CB164D1938}">
+			<Child Name="pageOraclePeoplesoftSignIn" Owner="{AD5E5847-C781-443B-83F0-00BE9571EF26}">
+				<Child Name="textboxUserId" Owner="{CEB6CE5F-A01E-4185-A0E5-4C55D7E2DFE9}" />
+				<Child Name="passwordboxPassword" Owner="{4FD51392-C8E6-4E74-9E3B-AF741F9F2E73}" />
+				<Child Name="submitbuttonSignIn" Owner="{3BE81F03-7578-4B24-B732-38BEDEAE2BD2}" />
+				<Child Name="framePtifrmtgtframe" Owner="{095EA843-F293-4E5F-968D-A08679B0122B}">
+					<Child Name="formAcademicProgTbl" Owner="{0A568485-C926-4F24-A7CE-A4E0CE7FB4FE}">
+						<Child Name="textboxAcademicInstitution" Owner="{1D0C627F-D5C8-42A7-8E51-DDF888CE9AC8}" />
+						<Child Name="textboxAcademicProgram" Owner="{4EC555EE-1FD7-49C8-81F3-8A0D00E85CA1}" />
+						<Child Name="textboxDescription" Owner="{A4BBDED4-715B-4045-A177-D10AA24578A3}" />
+						<Child Name="textboxShortDescription" Owner="{C8198E6E-73F9-45DF-BA04-E5D0E4F0A437}" />
+						<Child Name="textboxAcademicGroup" Owner="{3A9E817D-636F-4C26-B496-BD329B3EDA90}" />
+						<Child Name="textboxProgramName" Owner="{D12918EB-6A6E-44D7-B57C-E37FFD70C8C3}" />
+						<Child Name="textboxNationalCode" Owner="{403B7F1D-7DAB-421A-9A96-B3FA03E95D9A}" />
+						<Child Name="textboxAlternateCode" Owner="{83B893E1-F203-4281-98C1-2ABC36399783}" />
+					</Child>
+				</Child>
+				<Child Name="imagePtnuiMenuIcn2" Owner="{E830FF55-673B-430A-8D2F-EAAE7051F13F}" />
+				<Child Name="navItemGeneric" Owner="{796B6299-1861-401B-8B06-141FA1B99AD0}" />
+				<Child Name="headerPtbrHeaderContainer" Owner="{6200A303-8F6A-481C-8659-4B88A977BFC3}">
+					<Child Name="linkPthdr2navbar" Owner="{CC314A78-AC3A-414F-A8B7-CC2C19443A8D}" />
+				</Child>
+				<Child Name="formPtLandingpage" Owner="{C6B28001-2247-4476-992A-1B2F33A0FDEA}">
+					<Child Name="linkPtNavbar" Owner="{CE8AF80A-5A07-4052-BE7D-1E70737DD562}">
+						<Child Name="imagePtNavbarImg" Owner="{467DC737-8041-43C3-BA6D-46A23DE3C10A}" />
+					</Child>
+				</Child>
+				<Child Name="genericNavItem" Owner="{484977CA-2F0E-448E-B5E2-83626D75E746}" />
+				<Child Name="lblNavbarNavigator" Owner="{4710DA47-8034-4C23-8590-EE2584016F67}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<folder name="Actions">
+			<folder name="Login">
+				<child name="Login" key="{71345506-FD9D-480E-8AC1-777C1A72A65A}" path="Login.tcKDTest" />
+			</folder>
+			<folder name="HomeNavigation">
+				<child name="ClickNavItem" key="{2920D97A-BADB-4A4D-A921-7A6F99C770B4}" path="ClickNavItem.tcKDTest" />
+				<child name="OpenNavMenu" key="{0C04B499-7E5D-4DD8-9BE8-0BCDD33DB465}" path="OpenNavMenu.tcKDTest" />
+			</folder>
+			<folder name="Academic Plan">
+				<child name="AcademicPlan" key="{321E098D-5528-4624-A5EB-48307B1AC20C}" path="AcademicPlan.tcKDTest" />
+			</folder>
+			<folder name="Academic Program" />
+			<child name="OpenBrowser" key="{BDCF2CBC-97CD-449B-89A2-23500DC25842}" path="OpenBrowser.tcKDTest" />
+		</folder>
+		<folder name="Validations" />
+	</children>
+</Root>
